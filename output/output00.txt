@@ -1,3 +1,7 @@
-This is NOT a heap.
-70
-50 40 30 10 20 15
+17
+5
+11
+20 Found
+15 Not found
+12
+Empty
