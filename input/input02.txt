@@ -1,7 +1,10 @@
-11
-99 55 88 44 33 66 77 22 11 5 3
-4
-insert 200
-display
-insert 100
-display
+97
+8
+insert 97
+tableSize
+insert 1000
+insert 2000
+insert 3000
+insert 4000
+displayStatus 0
+displayStatus 1
