@@ -1,8 +1,12 @@
 5
-10 20 30 40 70
-5
-displayMax
-insert 50
-insert 15
-deleteMax
-display
+10
+insert 17
+insert 12
+displayStatus 2
+tableSize
+insert 20
+tableSize
+search 20
+search 15
+displayStatus 1
+displayStatus 2
